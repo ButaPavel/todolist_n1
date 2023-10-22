@@ -12,6 +12,7 @@ type TasksType ={
     id:number
     title:string
     isDone:boolean
+
 }
 export function Todolist(props:PropsType) {
 
